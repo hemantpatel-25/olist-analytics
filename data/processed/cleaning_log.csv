@@ -1,0 +1,8 @@
+Step,Action,Reason
+Drop missing IDs,Removed rows with missing IDs,Critical identifiers cannot be missing
+Fill missing category,Filled with Unknown,Preserve orders for analysis
+Handle missing reviews,Created has_review flag,Not all customers leave reviews
+Convert dates,Converted to datetime,Enable time-based analysis
+Convert categories,Converted to category dtype,Save memory
+Remove zero prices,Removed orders with price <= 0,Data errors or free items
+Keep high freight,Kept orders where freight > price,Valid for bulky items
