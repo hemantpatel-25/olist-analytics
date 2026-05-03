@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛒 Olist E-Commerce Analytics Dashboard
 
 A complete end-to-end data analytics project on the **Brazilian Olist e-commerce dataset**, covering data exploration, cleaning, feature engineering, and a 2-page interactive Power BI dashboard.
@@ -187,7 +186,4 @@ License: CC BY-NC-SA 4.0
 
 ---
 
-=======
-# olist-analytics
-End-to-end e-commerce analytics on Brazilian Olist dataset using Python &amp; Power BI
->>>>>>> 164b61af6f91d624065abc0dc1bbe476aed8b0e7
+
