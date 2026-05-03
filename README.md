@@ -8,10 +8,10 @@ A complete end-to-end data analytics project on the **Brazilian Olist e-commerce
 ## 📊 Dashboard Preview
 
 ### Page 1 – Sales Overview
-![Sales Overview](dashboard_screenshots/Screenshot1.png)
+![Sales Overview](dashboard_screenshots/page1.png)
 
 ### Page 2 – Customer & Geographic Analysis
-![Customer Analysis](dashboard_screenshots/Screenshot2.png)
+![Customer Analysis](dashboard_screenshots/page2.png)
 
 ---
 
